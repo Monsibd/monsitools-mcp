@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "monsitools": {
+      "type": "http",
+      "url": "https://monsitools.com/mcp"
+    }
+  }
+}

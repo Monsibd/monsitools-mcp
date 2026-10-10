@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "monsitools": {
+      "url": "https://monsitools.com/mcp",
+      "headers": { "Authorization": "Bearer mt_live_YOUR_KEY" }
+    }
+  }
+}
