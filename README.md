@@ -43,7 +43,7 @@ claude mcp add --transport http monsitools https://monsitools.com/mcp \
   --header "Authorization: Bearer mt_live_YOUR_KEY"
 ```
 
-**Cursor** (`~/.cursor/mcp.json`): see [`configs/cursor.json`](configs/cursor.json)
+**Cursor** (`~/.cursor/mcp.json`): see [`configs/cursor.json`](configs/cursor.json), or [`configs/cursor-with-key.json`](configs/cursor-with-key.json) with a Premium key
 
 **VS Code** (`.vscode/mcp.json`): see [`configs/vscode.json`](configs/vscode.json)
 
